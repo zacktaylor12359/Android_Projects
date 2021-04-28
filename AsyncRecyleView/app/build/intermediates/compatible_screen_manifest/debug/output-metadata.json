@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.cps251.project_08_asyncrecyleview",
+  "variantName": "debug",
+  "elements": []
+}

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Zack\\AndroidStudioProjects\\Project_08_AsyncRecyleView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\Zack\\AndroidStudioProjects\\Project_08_AsyncRecyleView\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Zack\\AndroidStudioProjects\\Project_08_AsyncRecyleView\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\card_layout.xml",
+        "source": "C:\\Users\\Zack\\AndroidStudioProjects\\Project_08_AsyncRecyleView\\app\\src\\main\\res\\layout\\card_layout.xml"
+    }
+]

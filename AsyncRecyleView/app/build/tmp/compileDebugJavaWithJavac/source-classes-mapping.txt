@@ -1,0 +1,24 @@
+com/cps251/project_08_asyncrecyleview/FirstFragment.java
+ com.cps251.project_08_asyncrecyleview.FirstFragment
+ com.cps251.project_08_asyncrecyleview.FirstFragment$1
+com/cps251/project_08_asyncrecyleview/BuildConfig.java
+ com.cps251.project_08_asyncrecyleview.BuildConfig
+com/cps251/project_08_asyncrecyleview/databinding/ContentMainBinding.java
+ com.cps251.project_08_asyncrecyleview.databinding.ContentMainBinding
+com/cps251/project_08_asyncrecyleview/SecondFragment.java
+ com.cps251.project_08_asyncrecyleview.SecondFragment
+ com.cps251.project_08_asyncrecyleview.SecondFragment$1
+com/cps251/project_08_asyncrecyleview/DataBindingTriggerClass.java
+ com.cps251.project_08_asyncrecyleview.DataBindingTriggerClass
+com/cps251/project_08_asyncrecyleview/ui/main/MainViewModel.java
+ com.cps251.project_08_asyncrecyleview.ui.main.MainViewModel
+com/cps251/project_08_asyncrecyleview/Data.java
+ com.cps251.project_08_asyncrecyleview.Data
+com/cps251/project_08_asyncrecyleview/MainActivity.java
+ com.cps251.project_08_asyncrecyleview.MainActivity
+ com.cps251.project_08_asyncrecyleview.MainActivity$MyTask
+com/cps251/project_08_asyncrecyleview/RecyclerAdapter.java
+ com.cps251.project_08_asyncrecyleview.RecyclerAdapter
+ com.cps251.project_08_asyncrecyleview.RecyclerAdapter$ViewHolder
+com/cps251/project_08_asyncrecyleview/databinding/CardLayoutBinding.java
+ com.cps251.project_08_asyncrecyleview.databinding.CardLayoutBinding
