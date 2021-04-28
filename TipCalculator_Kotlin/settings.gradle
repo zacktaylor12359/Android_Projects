@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Project_03_TipCalculator_Kotlin"

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Project05</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment2">Hello blank fragment 2</string>
+    <string name="hello_blank_fragment3">Hello blank fragment 3</string>
+    <string name="button">Button</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="fragment_c">Fragment C</string>
+    <string name="todo">TODO</string>
+    <string name="to_fragment_a">To Fragment A</string>
+    <string name="to_fragment_b">To Fragment B</string>
+    <string name="to_fragment_c">To Fragment C</string>
+    <string name="fragaim">FragAIm</string>
+    <string name="fragbim">FragBIm</string>
+    <string name="fragcim">FragCIm</string>
+</resources>

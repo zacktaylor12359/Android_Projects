@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project_03_TipCalculator_Kotlin</string>
+    <string name="calculate_tip">Calculate Tip</string>
+    <string name="amount">Amount</string>
+</resources>
