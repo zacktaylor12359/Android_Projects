@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/drawable_android_image_2.jpg.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/drawable/android_image_2.jpg"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/drawable_android_image_3.jpg.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/drawable/android_image_3.jpg"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/layout_main_fragment.xml.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/layout/main_fragment.xml"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/layout_fragment_fourth.xml.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/layout/fragment_fourth.xml"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/layout_fragment_third.xml.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/layout/fragment_third.xml"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/drawable_android_image_1.jpg.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/drawable/android_image_1.jpg"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/layout_main_activity.xml.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/navigation_navigation_graph.xml.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/navigation/navigation_graph.xml"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/layout_fragment_second.xml.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/zacharytaylor/AndroidStudioProjects/Project05/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

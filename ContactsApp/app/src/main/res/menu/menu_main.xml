@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.cps251.example.MainActivity">
+    <item
+        android:id="@+id/option_show"
+        android:orderInCategory="1"
+        android:title="Show All Contacts"
+         />
+    <item
+        android:id="@+id/option_add"
+        android:orderInCategory="2"
+        android:title="Add Contact" />
+    <item
+        android:id="@+id/option_find"
+        android:orderInCategory="3"
+        android:title="Find Contacts" />
+    <item
+        android:id="@+id/option_sort_asc"
+        android:orderInCategory="4"
+        android:title="Sort Contacts A-Z" />
+    <item
+        android:id="@+id/option_sort_desc"
+        android:orderInCategory="5"
+        android:title="Sort Contacts Z-A" />
+</menu>

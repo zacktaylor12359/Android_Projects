@@ -1,0 +1,38 @@
+com/ebookfrenzy/project05/SecondFragment.java
+ com.ebookfrenzy.project05.SecondFragment
+ com.ebookfrenzy.project05.SecondFragment$OnFragmentInteractionListener
+com/ebookfrenzy/project05/ThirdFragment.java
+ com.ebookfrenzy.project05.ThirdFragment
+ com.ebookfrenzy.project05.ThirdFragment$OnFragmentInteractionListener
+com/ebookfrenzy/project05/FourthFragmentArgs.java
+ com.ebookfrenzy.project05.FourthFragmentArgs
+ com.ebookfrenzy.project05.FourthFragmentArgs$1
+ com.ebookfrenzy.project05.FourthFragmentArgs$Builder
+com/ebookfrenzy/project05/FourthFragment.java
+ com.ebookfrenzy.project05.FourthFragment
+ com.ebookfrenzy.project05.FourthFragment$OnFragmentInteractionListener
+com/ebookfrenzy/project05/ui/main/MainViewModel.java
+ com.ebookfrenzy.project05.ui.main.MainViewModel
+com/ebookfrenzy/project05/BuildConfig.java
+ com.ebookfrenzy.project05.BuildConfig
+com/ebookfrenzy/project05/ui/main/MainFragmentDirections.java
+ com.ebookfrenzy.project05.ui.main.MainFragmentDirections
+ com.ebookfrenzy.project05.ui.main.MainFragmentDirections$1
+ com.ebookfrenzy.project05.ui.main.MainFragmentDirections$ActionMainFragmentToFourthFragment
+ com.ebookfrenzy.project05.ui.main.MainFragmentDirections$ActionMainFragmentToSecondFragment
+ com.ebookfrenzy.project05.ui.main.MainFragmentDirections$ActionMainFragmentToThirdFragment
+com/ebookfrenzy/project05/ThirdFragmentArgs.java
+ com.ebookfrenzy.project05.ThirdFragmentArgs
+ com.ebookfrenzy.project05.ThirdFragmentArgs$1
+ com.ebookfrenzy.project05.ThirdFragmentArgs$Builder
+com/ebookfrenzy/project05/MainActivity.java
+ com.ebookfrenzy.project05.MainActivity
+com/ebookfrenzy/project05/ui/main/MainFragment.java
+ com.ebookfrenzy.project05.ui.main.MainFragment
+ com.ebookfrenzy.project05.ui.main.MainFragment$1
+ com.ebookfrenzy.project05.ui.main.MainFragment$2
+ com.ebookfrenzy.project05.ui.main.MainFragment$3
+com/ebookfrenzy/project05/SecondFragmentArgs.java
+ com.ebookfrenzy.project05.SecondFragmentArgs
+ com.ebookfrenzy.project05.SecondFragmentArgs$1
+ com.ebookfrenzy.project05.SecondFragmentArgs$Builder

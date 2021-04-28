@@ -1,0 +1,8 @@
+com/example/tipcalculator/DataBindingTriggerClass.java
+ com.example.tipcalculator.DataBindingTriggerClass
+com/example/tipcalculator/BuildConfig.java
+ com.example.tipcalculator.BuildConfig
+com/example/tipcalculator/databinding/ActivityMainBinding.java
+ com.example.tipcalculator.databinding.ActivityMainBinding
+com/example/tipcalculator/MainActivity.java
+ com.example.tipcalculator.MainActivity

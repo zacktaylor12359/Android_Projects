@@ -1,0 +1,4 @@
+#Mon Oct 26 08:12:14 EDT 2020
+base.0=/Users/zacharytaylor/AndroidStudioProjects/Project05/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
